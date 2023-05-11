@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: 2% auto;
+    width: 50%;
+}
+
+#board_container {
+    margin-top: 2%;
+
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+.checker{
+    width: 75px;
+    height: 75px;
+
+}
